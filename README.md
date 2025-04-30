@@ -1,4 +1,4 @@
-# Learning Java and Spring Boot
+# Learning Java and Spring Boot with a taste of Matrix! 
 
 This repository is part of my journey to learn **Java** and **Spring Boot**. It's a collection of various projects and exercises that I've been working on to strengthen my knowledge of web development, security, and backend development.
 
@@ -6,7 +6,7 @@ This repository is part of my journey to learn **Java** and **Spring Boot**. It'
 
 - **Login System with Spring Security**: A basic login system with Spring Security, where I've implemented user authentication and basic authorization.
 - **Matrix Hacker Effect**: A JavaScript-based "Matrix" visual effect, which I integrated with my Spring Boot projects for fun and styling.
-- **Book Database Application**: An application to manage and display a list of books, showcasing my understanding of Spring Boot's REST API and Thymeleaf templating engine.
+
 
 ## 🧠 What I've Learned
 
@@ -24,7 +24,7 @@ This repository is part of my journey to learn **Java** and **Spring Boot**. It'
 - **JavaScript**
 - **HTML5/CSS**
 - **Docker**
-- **IDE(IntelliJ)
+- **IDE(IntelliJ)**
 
 ## 📝 Test Login
 
@@ -43,5 +43,5 @@ I've included a **Dockerfile** to help you deploy this project to the cloud or a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/filipguz/learning-java-springboot.git
-   cd learning-java-springboot
+   git clone https://github.com/filipguz/LoginTest.git
+   cd LoginTest
