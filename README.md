@@ -1,4 +1,4 @@
-# Learning Java and Spring Boot with a taste of Matrix! ;-) 
+# Learning Java and Spring Boot
 
 This repository is part of my journey to learn **Java** and **Spring Boot**. It's a collection of various projects and exercises that I've been working on to strengthen my knowledge of web development, security, and backend development.
 
@@ -6,7 +6,7 @@ This repository is part of my journey to learn **Java** and **Spring Boot**. It'
 
 - **Login System with Spring Security**: A basic login system with Spring Security, where I've implemented user authentication and basic authorization.
 - **Matrix Hacker Effect**: A JavaScript-based "Matrix" visual effect, which I integrated with my Spring Boot projects for fun and styling.
--
+- **Book Database Application**: An application to manage and display a list of books, showcasing my understanding of Spring Boot's REST API and Thymeleaf templating engine.
 
 ## 🧠 What I've Learned
 
@@ -23,7 +23,8 @@ This repository is part of my journey to learn **Java** and **Spring Boot**. It'
 - **Bootstrap**
 - **JavaScript**
 - **HTML5/CSS**
-- **IDE(IntelliJ**
+- **Docker**
+- **IDE(IntelliJ)
 
 ## 📝 Test Login
 
@@ -34,24 +35,13 @@ To test the login functionality, use the following credentials:
 
 These credentials are pre-configured in the application for testing purposes. After logging in, you will be redirected to the `index` page.
 
-## 📚 Learning Resources
+## 🚀 Deploying with Docker
 
-- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [Java Documentation](https://docs.oracle.com/en/java/)
-- [Thymeleaf Documentation](https://www.thymeleaf.org/documentation.html)
+I've included a **Dockerfile** to help you deploy this project to the cloud or any environment that supports Docker. Here's how you can do it:
 
-## 👨‍💻 Future Plans
+### Build the Docker Image
 
-- Build more complex applications using **Spring Boot** and **RESTful APIs**.
-- Learn about **Spring Data JPA** and integrate databases.
-- Explore **Spring Cloud** for microservices development.
-
-## 📢 Feedback & Contributions
-
-If you have any feedback or suggestions on how I can improve, please feel free to open an issue or submit a pull request! I would love to learn from the community and improve my skills.
-
-Thank you for checking out my projects!
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/filipguz/learning-java-springboot.git
+   cd learning-java-springboot
