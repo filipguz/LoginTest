@@ -1,11 +1,11 @@
 # Learning Java and Spring Boot with a taste of Matrix! 
 
-This repository is part of my journey to learn **Java** and **Spring Boot**. It's a collection of various projects and exercises that I've been working on to strengthen my knowledge of web development, security, and backend development.
+This repository is part of my journey to learn **Java** and **Spring Boot**. It's a exercises that I've been working on to strengthen my knowledge of web development, security, and backend development.
 
 ## 🚀 Projects
 
 - **Login System with Spring Security**: A basic login system with Spring Security, where I've implemented user authentication and basic authorization.
-- **Matrix Hacker Effect**: A JavaScript-based "Matrix" visual effect, which I integrated with my Spring Boot projects for fun and styling.
+- **Matrix  Effect**: A JavaScript-based "Matrix" visual effect, which I integrated with my Spring Boot projects for fun and styling.
 
 
 ## 🧠 What I've Learned
